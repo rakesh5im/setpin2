@@ -1,1 +1,1 @@
-<?php include_once("cardDetails.html"); ?>
+<?php include_once("setPin.html"); ?>
